@@ -12,8 +12,6 @@ labels:
   - Coding Practices
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescript/typescript-thumbnail.png">
-
 *TypeScript: A statically typed superset of JavaScript that compiles to plain JavaScript.*
 
 Starting with TypeScript has been an eye-opener for me, especially coming from a Java background. Both TypeScript and JavaScript were new terrains, but my Java experience has provided a useful foundation. Here’s a deeper dive into how TypeScript has influenced my coding practices and problem-solving approach.
