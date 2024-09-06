@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: path/to/your/image.jpg
-title: Advanced Spreadsheet Calculator for Mobile Game
+image: /img/spreadsheetcalculator/spreadsheet-main.png
+title: Advanced Spreadsheet Calculator
 date: 2024-09-05
 published: true
 labels: [spreadsheet, calculator, modular design, error handling, algorithm design, scalability, on hold]
