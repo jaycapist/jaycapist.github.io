@@ -10,7 +10,7 @@ summary: A comprehensive spreadsheet calculator designed to compute spell stats 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/spreadsheetcalculator/spreadsheet-main.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/spreadsheetcalculator/spreadsheet-main.png" class="img-thumbnail" >
 </div>
 
 ## Project Overview
@@ -30,7 +30,7 @@ My role in this project was pivotal, as I was exclusively responsible for its de
 ## Insights and Learnings
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/spreadsheetcalculator/spreadsheet-thunderstrike-damage-formulae.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/spreadsheetcalculator/spreadsheet-thunderstrike-damage-formulae.png" class="img-thumbnail" >
 </div>
 
 Working on this project gave me valuable insights into managing data and using modular design principles. I realised how important it is to break down complex calculations into manageable parts. This approach made updating and maintaining each component much more accessible than dealing with a vast, unwieldy formula. I also saw firsthand the impact of thorough error-checking and input validation on improving user experience and preventing mistakes. The project highlighted scalability and clear visual organisation for effective software design. Even though I put the project on hold due to a potential overhaul in the game's item system, the skills and techniques I developed will help handle and scale complex data-driven applications.
