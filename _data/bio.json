@@ -2,7 +2,7 @@
   "basics": {
     "name": "Jayden Ontalan Capistrano",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://media.licdn.com/dms/image/v2/D5603AQFWI0Q8ui_aAQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725067916395?e=1730937600&v=beta&t=XZSjS8SO_vl4PrTaKpd_a6LzY166YGOCCliU9QUIfJw",
     "email": "jaydenc8@hawaii.edu",
     "phone": "",
     "website": "https://jaydenontalancapistrano.github.io",
@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jaydenontalancapistrano", "url": "http://github.com/jaydenontalancapistrano" },
-      { "network": "linkedin", "username": "Jayden Ontalan Capistrano", "url": "https://www.linkedin.com/in/jayden-ontalan-capistrano/" },
-      { "network": "twitter", "username": "", "url": "" },
-      { "network": "instagram", "username": "", "url": "" }
+      { "network": "linkedin", "username": "Jayden Ontalan Capistrano", "url": "https://www.linkedin.com/in/jayden-ontalan-capistrano/" }
     ]
   },
   "interests": [
