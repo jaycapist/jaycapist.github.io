@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/spreadsheetcalculator/spreadsheet-main.png
+image: img/spreadsheetcalculator/spreadsheet-main.png
 title: Advanced Spreadsheet Calculator
 date: 2024-09-05
 published: true
