@@ -1,21 +1,23 @@
-.card img {
-  width: 100%;
-  height: auto;
-}
-@media (max-width: 768px) {
-  .card {
-    text-align: center; /* Center text and other inline elements */
-  }
-  .card .row {
-    flex-direction: column; /* Stack columns vertically on smaller screens */
-  }
-  .card .col-sm-6, .card .col-md-4, .card .col-md-8 {
-    display: flex;
-    justify-content: center; /* Center content horizontally */
-    align-items: center; /* Center content vertically if needed */
-    text-align: center; /* Center text if applicable */
-  }
-  .card .col-md-4 {
-    margin-bottom: 1rem; /* Add spacing between image and text */
-  }
-}
+<div class="card mb-3">
+  <div class="row g-0">
+    <div class="col-sm-6 col-md-4">
+      <img src="{{ site.baseurl }}/{{ include.page.image }}" height="225px" class="rounded-start">
+    </div>
+    <div class="col-sm-6 col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">{{ include.page.title }} <small class="text-muted float-end">{{ include.page.date }}</small></h5>
+        <p class="card-text">{{ include.page.summary }}</p>
+        <p>
+          {% for label in include.page.labels %}
+          <span style="background-color: var(--tf-pill-bg)" class="badge rounded-pill">{{ label }}</span>
+          {% endfor %}
+        </p>
+        {% if page.projecturl %}
+        <a href="{{ page.projecturl }}" class="btn btn-outline-dark">Project Site</a>
+        {% else %}
+        <a href="{{ site.baseurl}}{{ include.page.url }}" class="btn btn-outline-dark">Read More</a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
