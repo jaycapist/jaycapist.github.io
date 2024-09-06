@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jaydenontalancapistrano", "url": "http://github.com/jaydenontalancapistrano" },
-      { "network": "linkedin", "username": "Jayden Ontalan Capistrano", "url": "https://www.linkedin.com/in/jayden-ontalan-capistrano/" },
-      { "network": "twitter", "username": "", "url": "" },
-      { "network": "instagram", "username": "", "url": "" }
+      { "network": "linkedin", "username": "Jayden Ontalan Capistrano", "url": "https://www.linkedin.com/in/jayden-ontalan-capistrano/" }
     ]
   },
   "interests": [
