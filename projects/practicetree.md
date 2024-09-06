@@ -10,7 +10,7 @@ summary: A comprehensive implementation of a Binary Search Tree (BST) in C++ des
 ---
 
 <div class="text-center p-4">
-  <img width="1000px" src="../img/practicetree/tree-practice-sample.png" class="img-thumbnail" >
+  <img width="1000px" src="../img/practicetree/tree-practice-sample.jpg" class="img-thumbnail" >
 </div>
 
 ## Project Overview
