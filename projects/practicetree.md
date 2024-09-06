@@ -9,7 +9,9 @@ labels: [C++, tree data structures, algorithm design, modular design, traversal 
 summary: A comprehensive implementation of a Binary Search Tree (BST) in C++ designed to handle core operations efficiently, with a focus on traversal methods and modular design.
 ---
 
-
+<div class="text-center p-4">
+  <img width="1000px" src="../img/practicetree/tree-practice-sample.png" class="img-thumbnail" >
+</div>
 
 ## Project Overview
 
@@ -48,4 +50,4 @@ Feel free to check out the project or reach out if you have any questions!
 
 ---
 
-For more details, visit [Project Repository](link-to-your-repository).
+For more details, visit Project Repository.
