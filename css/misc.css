@@ -1,0 +1,27 @@
+:root .navbar {
+    --bs-navbar-padding-y: 0; /* Removing bootstrap padding. */
+    .footer {
+        border: 0px;
+    }
+}
+
+#footer a, #header a {
+    color: var(--tf-primary); /* Colour header and footer with primary colour */
+}
+
+.text-start, .card-title {
+    color: var(--tf-tertiary); /* Colour card headings */
+}
+
+.container strong {
+    color: var(--tf-secondary); /* Colour bolded text */
+}
+
+
+.sidebar .col-lg-12 {
+    padding-top: 1rem; /* Padding the top of the sidebar picture */
+}
+
+.resume, .text-start {
+    color: var(--tf-primary); /* Colour main seciton and resune headings */
+}
