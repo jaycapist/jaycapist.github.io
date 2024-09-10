@@ -3,6 +3,12 @@ title: Home
 layout: home
 ---
 
-{% include about/about.html %}
+<div id="about-section">
+    {% include about/about.html %}
+  </div>
+
+<div class="content"></div>
 {% include projects/projects.html limit=4 %}
+<hr>
 {% include essays/essays.html limit=6 %}
+</div>
