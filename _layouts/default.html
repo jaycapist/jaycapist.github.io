@@ -30,18 +30,36 @@
     <meta property="og:image" content="{{ site.data.bio.basics.picture }}">
     <link rel="shortcut icon" href="{{ '/favicon.ico' | prepend: site.baseurl }}">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{ site.baseurl}}/css/techfolio-theme/{{ site.techfolio-theme}}">
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl}}/css/rouge/{{ site.rouge-theme}}">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/techfolio-theme/{{ site.techfolio-theme }}">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/rouge/{{ site.rouge-theme }}">
     <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
     {% if site.mathjax %}
-    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
-    </script>
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML"></script>
     {% endif %}
-
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/fixed-sidebar.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/misc.css">
     <title>{{ title }}</title>
   </head>
   <body>
-  {{ content }}
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    <div class="container-fluid">
+      <div class="row flex-nowrap">
+        <!-- Sidebar -->
+        {%- if page.url != '/resume.html' -%}
+        <nav id="sidebar" class="col-md-4 col-lg-3 d-md-block bg-light">
+          {% include sidebar.html %}
+        </nav>
+        <!-- Main content -->
+        <main class="col-md-8 col-lg-9 px-4 mx-auto main-page">
+          {{ content }}
+        </main>
+        {%- else -%}
+        <!-- Main content -->
+        <main class="col-md-12 col-lg-12 px-4 mx-auto main-page">
+          {{ content }}
+        </main>
+        {%- endif -%}
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
   </body>
 </html>
