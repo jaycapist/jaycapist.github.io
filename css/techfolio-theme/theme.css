@@ -17,7 +17,7 @@
   --tf-footer-bg-color: #99957A; /* Essay Card Bottom */
   --tf-projects-bg-color: #7e7a5c; /* Project Section Background - Creame */
   --card-bg-color: #99957A; /* Project Card Background - Lighter Blue */
-  --card-border-color: black; /* Card Borders - Black */
+  --card-border-color: #3d393a; /* Card Borders - Black */
 }
 
 body {
