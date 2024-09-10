@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/listingre/LRETN02.png
 title: Real Estate Listings Management System
-date: 2024-09-05
+date: 2024-04-02
 published: true
 labels: [linked list, real estate, Java, data structure, modular design, object-oriented programming]
 summary: A linked list-based system for managing real estate listings with functionalities for adding, removing, searching, and filtering listings.
