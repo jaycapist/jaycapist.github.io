@@ -1,0 +1,21 @@
+#sidebar {
+    position: sticky; /* Make the sidebar stick */
+    top: 0; /* Align the sidebar to the top */
+    bottom: 0; /* Align the sidebar to the bottom */
+    height: 100%; /* Full height */
+    overflow-y: auto; /* Allow scrolling within the sidebar if needed */
+    background-color: var(--tf-page-bg-color); /* Sidebar background color */
+    z-index: 1000; /* Ensure the sidebar is above other content */
+    display: block; /* Default display */
+}
+
+#sidebar > * {
+    overflow: hidden; /* Hide overflow content */
+}
+
+/* Fix issues with margins and paddings inside sidebar */
+#sidebar .container, #sidebar .row, #sidebar .col {
+    margin: 0; /* Removing margins */
+    padding: 0; /* Removing padding */
+    box-sizing: border-box; /* Include padding and border in width and height */
+}
