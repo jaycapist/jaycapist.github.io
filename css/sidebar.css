@@ -4,6 +4,7 @@
     top: 0; /* Align the sidebar to the top */
     bottom: 0; /* Align the sidebar to the bottom */
     height: 100%; /* Full height */
+    padding: 0px; /* Remove padding*/
     overflow-y: auto; /* Allow scrolling within the sidebar if needed */
     background-color: var(--tf-page-bg-color); /* Sidebar background color */
     z-index: 1000; /* Ensure the sidebar is above other content */
