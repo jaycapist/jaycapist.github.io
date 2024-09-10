@@ -1,9 +1,6 @@
-<header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="{{ '/' | prepend: site.baseurl }}">{{ site.data.bio.basics.name }}</a>
-    {% if page.url != '/' %}
-    <img src="{{ site.data.bio.basics.picture }}" class="img-fluid rounded-circle" style="max-width: 50px; position: absolute; left: 50%;" >
-    {% endif %}
+<header class="navbar navbar-expand navbar-light bg-light bg-gradient" id="header">
+  <div style="background-color: var(--tf-page-bg-color)" class="container-fluid">
+    <!-- <a class="navbar-brand" href="{{ '/' | prepend: site.baseurl }}">{{ site.data.bio.basics.name }}</a> -->
     <div class="ms-auto">
       <ul class="navbar-nav mb-2 mb-lg-0">
         <a class="nav-link" href="{{ '/#projects' | prepend: site.baseurl }}">Projects</a>
