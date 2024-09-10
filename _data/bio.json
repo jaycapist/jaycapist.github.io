@@ -14,10 +14,13 @@
     ]
   },
   "interests": [
-    { "name": "Software Architecture" },
-    { "name": "Data Analytics and Visualisation" },
+    { "name": "Database Management" },
+    { "name": "Cloud Platforms" },
+    { "name": "Data Analytics and Visualization" },
     { "name": "Project Management" },
-    { "name": "CI/CD" }
+    { "name": "Software Architecture" },
+    { "name": "Hadoop and Spark" },
+]
   ],
   "skills": [
     {
