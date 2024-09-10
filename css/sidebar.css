@@ -7,10 +7,12 @@
     overflow-y: auto; /* Allow scrolling within the sidebar if needed */
     background-color: var(--tf-page-bg-color); /* Sidebar background color */
     z-index: 1000; /* Ensure the sidebar is above other content */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
     display: block; /* Default display */
 }
 
 #sidebar > * {
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
     overflow: hidden; /* Hide overflow content */
 }
 
