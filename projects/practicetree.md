@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/practicetree/BalancedTreeTN02.png
+image: img/practicetree/BalancedTreeTN01.png
 title: Binary Search Tree Implementation in C++
 date: 2024-09-05
 published: true
