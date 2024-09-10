@@ -1,0 +1,75 @@
+/* Dark Theme: using only the provided colors */
+
+/* Use Open Sans as the default font. */
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+
+/* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
+:root {
+  --tf-primary: #d97a4f; /*  */
+  --tf-secondary: #99957A; /* Text Shadow? */
+  --tf-tertiary: #3d393a; /*  */
+  --bs-font-sans-serif: "Open Sans", sans-serif;
+  --bs-link-color: #00BCD0; /*  */
+  --tf-pill-bg: #d97a4f; /* Card Tags - Light Pink */
+  --tf-icon-fill: #CEBDB2; /*  */
+  --tf-icon-hover: #E5DCD6; /*  */
+  --tf-page-bg-color: #3d393a; /* About Section & Main Background - Dark Brown*/
+  --tf-footer-bg-color: #99957A; /* Essay Card Bottom */
+  --tf-projects-bg-color: #7e7a5c; /* Project Section Background - Creame */
+  --card-bg-color: #99957A; /* Project Card Background - Lighter Blue */
+  --card-border-color: black; /* Card Borders - Black */
+}
+
+body {
+  background-color: var(--tf-page-bg-color);
+  color: #f0f0f0; /* Light text color for readability against dark background */
+  font-family: var(--bs-font-sans-serif);
+}
+
+h1, h2, h3, h4, h5 {
+  color: var(--tf-primary);
+}
+
+a {
+  color: var(--bs-link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--tf-icon-hover);
+}
+
+.card {
+  background-color: var(--card-bg-color);
+  border: 1px solid var(--card-border-color);
+  border-radius: 0.5rem;
+  color: #f0f0f0;
+}
+
+.card-footer {
+  background-color: var(--tf-footer-bg-color);
+  border-top: none;
+}
+
+.tf-social {
+  display: inline-block;
+  fill: var(--tf-primary);
+  height: 1.5em;
+  vertical-align: -.1em;
+  width: 1.5em;
+  transition: 0.2s;
+}
+
+.tf-social:hover {
+  fill: var(--tf-icon-hover);
+}
+
+@media (max-width: 500px) {
+  .navbar-brand {
+    display: none;
+  }
+
+  .navbar-brand-mobile {
+    display: inline;
+  }
+}
