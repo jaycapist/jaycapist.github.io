@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/practicetree/BalancedTreeTN01.png
 title: Binary Search Tree Implementation in C++
-date: 2024-07-21
+date: July 21, 2024
 published: true
 labels: [C++, tree data structures, algorithm design, modular design, traversal methods, memory management]
 summary: A comprehensive implementation of a Binary Search Tree (BST) in C++ designed to handle core operations efficiently, with a focus on traversal methods and modular design.
