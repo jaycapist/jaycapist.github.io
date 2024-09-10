@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Exploring TypeScript: From Java to a Flexible World"
-date: 2024-09-05
+date: September 5, 2024
 published: true
 labels:
   - TypeScript
