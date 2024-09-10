@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/listingre/LRETN01.png
+image: img/listingre/LRETN02.png
 title: Real Estate Listings Management System
 date: 2024-09-05
 published: true
