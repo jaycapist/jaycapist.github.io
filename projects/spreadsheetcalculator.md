@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/spreadsheetcalculator/spreadsheet-thumbnail.png
 title: Advanced Spreadsheet Calculator
-date:  2024-05-18 to 2024-07-19
+date:  May 18 - July 19 2024
 published: true
 labels: [spreadsheet, calculator, modular design, error handling, algorithm design, scalability, on hold]
 summary: A comprehensive spreadsheet calculator designed to compute spell stats and optimize gameplay in a mobile game.
