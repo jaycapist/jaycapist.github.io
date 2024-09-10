@@ -29,3 +29,7 @@
 .display-6.text-start {
     color: var(--tf-pill-bg);
 }
+
+.row > * {
+    margin-bottom: var(--bs-gutter-y); /* Essay card bottom margin */
+  }
