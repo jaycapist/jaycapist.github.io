@@ -22,6 +22,10 @@
     padding-top: 1rem; /* Padding the top of the sidebar picture */
 }
 
-.resume, .text-start {
-    color: var(--tf-primary); /* Colour main seciton and resune headings */
+.display-4.text-start, .card-title {
+    color: var(--tf-page-bg-color);
+}
+
+.display-6.text-start {
+    color: var(--tf-pill-bg);
 }
