@@ -13,8 +13,10 @@ labels:
   - Scalability
 ---
 
-  Starting with Typescript has been an eye-opener for me, especially coming from a Java background. Both Typescript and JavaScript were new terrains, but my Java experience has provided a useful foundation.
+ THere was a point in time that I did **not** want to commit to the Computer Science pathway. However, the situation has changed.
 
+> "When you change the way you look at things, the things you look at change." ~ Max Planck
+  
 ## New Possibilities
 
   One of the most striking aspects of Typescript for me has been the sense of freedom it offers. Unlike the more rigid constraints of Java, Typescript allows multiple return types and flexible variables. This flexibility has opened up new possibilities in my coding. For instance, being able to define a variable with multiple possible types or a function with varied return types has encouraged me to explore more creative (if not always conventional) coding practices. While these might not always align with traditional best practices, they offer an intriguing alternative and make coding a bit more enjoyable.
