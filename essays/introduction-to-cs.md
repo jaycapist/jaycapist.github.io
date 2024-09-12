@@ -11,10 +11,10 @@ labels:
 ---
 
   # Evasion
-	Truthfully, I did not want to do computer science, so I avoided it. It seemed too preordained; a 'techy' kid will grow into the 'techy' career. He fixed that computer; he made that computer; he likes video games; he knows how to fix what I do not, etc. It was not my only reason, but it was my primary reason for avoiding it; I did not want to fall into the stereotypical mould. However, I eventually decided that I needed something to do. Sure enough, I started to work towards a Bachelor of Science in Computer Science.
+  Truthfully, I did not want to do computer science, so I avoided it. It seemed too preordained; a 'techy' kid will grow into the 'techy' career. He fixed that computer; he made that computer; he likes video games; he knows how to fix what I do not, etc. It was not my only reason, but it was my primary reason for avoiding it; I did not want to fall into the stereotypical mould. However, I eventually decided that I needed something to do. Sure enough, I started to work towards a Bachelor of Science in Computer Science.
 	
   # Inevitable?
-  As I had never taken a CS class, I started with the 'Intro to Programming' classes. These courses were eye-opening. The process and completion of solving a problem or accomplishing a task were more than just gratifying. Quickly, I developed a deep appreciation for the methods and elegance of software development. What began as a reluctant choice soon became a genuine passion for problem-solving through code.
+  I had never taken a CS class, I started with the 'Intro to Programming' classes. These courses were eye-opening. The process and completion of solving a problem or accomplishing a task were more than just gratifying. Quickly, I developed a deep appreciation for the methods and elegance of software development. What began as a reluctant choice soon became a genuine passion for problem-solving through code.
 	
   # Further Interests
   As I immersed myself in the subject, I discovered a few interests I look forward to immersing in. Database management, cloud platforms, data analytics, and visualization will become the focal points of my self-studies. My growing passion for these areas led me to explore data engineering as a potential pathway.
