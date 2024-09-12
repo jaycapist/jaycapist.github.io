@@ -33,3 +33,7 @@
 .row > * {
     margin-bottom: var(--bs-gutter-y); /* Essay card bottom margin */
   }
+
+.img-thumbnail {
+    background-color: var(--bs-border-color); /* Colour picture background */
+}
