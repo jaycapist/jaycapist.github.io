@@ -10,13 +10,15 @@ labels:
   - Interests
 ---
 
-  Originally, I did **not** want to tkae Computer Science as a pathway. However, things had changed.
+  Originally, I did **not** want to take Computer Science as a pathway. However, things had changed.
+
 
   > "When you change the way you look at things, the things you look at change." ~ Max Planck
 
+
 ## Evasion
 
-Truthfully, I did not want to do computer science, so I avoided it. It seemed too preordained; a 'techy' kid will grow into the 'techy' career. He fixed that computer; he made that computer; he likes video games; he knows how to fix what I do not, etc. It was not my only reason, but it was my primary reason for avoiding it; I did not want to fall into the stereotypical mould. However, I eventually decided that I needed something to do. Sure enough, I started to work towards a Bachelor of Science in Computer Science.
+  Truthfully, I did not want to do computer science, so I avoided it. It seemed too preordained; a 'techy' kid will grow into the 'techy' career. He fixed that computer; he made that computer; he likes video games; he knows how to fix what I do not, etc. It was not my only reason, but it was my primary reason for avoiding it; I did not want to fall into the stereotypical mould. However, I eventually decided that I needed something to do. Sure enough, I started to work towards a Bachelor of Science in Computer Science.
 
 ## Inevitable?
 
