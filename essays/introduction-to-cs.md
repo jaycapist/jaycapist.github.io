@@ -10,7 +10,9 @@ labels:
   - Interests
 ---
 
-  Starting with Typescript has been an eye-opener for me, especially coming from a Java background. Both Typescript and JavaScript were new terrains, but my Java experience has provided a useful foundation.
+  Originally, I did **not** want to tkae Computer Science as a pathway. However, things had changed.
+
+  > "When you change the way you look at things, the things you look at change." ~ Max Planck
 
 ## Evasion
 
@@ -18,7 +20,7 @@ Truthfully, I did not want to do computer science, so I avoided it. It seemed to
 
 ## Inevitable?
 
-   I had never taken a CS class, I started with the 'Intro to Programming' classes. These courses were eye-opening. The process and completion of solving a problem or accomplishing a task were more than just gratifying. Quickly, I developed a deep appreciation for the methods and elegance of software development. What began as a reluctant choice soon became a genuine passion for problem-solving through code.
+  I had never taken a CS class, I started with the 'Intro to Programming' classes. These courses were eye-opening. The process and completion of solving a problem or accomplishing a task were more than just gratifying. Quickly, I developed a deep appreciation for the methods and elegance of software development. What began as a reluctant choice soon became a genuine passion for problem-solving through code.
 
 ## Further Interests
 
