@@ -30,13 +30,17 @@ Others should also be taken into consideration when asking a question. Providing
 
 The [SMART](https://stackoverflow.com/questions/9730612/get-element-css-property-width-height-value-as-it-was-set-in-percent-em-px-et) question  I found was about getting an element's CSS property value as it was set in various units. The question provides a specific example with code and describes what has been attempted using getComputedStyle and css(). The mention of the Chrome Inspector is particularly useful for understanding the context.
 
-<img src="../img/actingsmart/actingsmart-smartqn.png" alt="A user acting SMART" class ="mx-auto" width="300" hight="auto"/>
+<div class="center-image">
+  <img src="../img/actingsmart/actingsmart-smartqn.png" alt="A user acting SMART" width="300" />
+</div>
 
 As mentioned, the question includes sample HTML and CSS code, which clarifies the issue. It shows a level of detail about the problem and what is expected. The user demonstrates learning by referring to existing methods and noting what did not work. The question is specific about the desired outcome (getting the original unit's value) and the current methods' issue. The question is well done, but they could improve by including the exact problem with any relevant browser or environment-specific details.
 
 The [non-SMART](https://stackoverflow.com/questions/53172241/spark-2-3-0-giving-error-provider-org-apache-spark-ml-source-libsvm-libsvmfile) question I found is about Spark 2.3.0, and the error with LibSVMFileFormat fails to hit a few of the key points of a SMART question. The question was never answered. 
 
-<img src="../img/actingsmart/actingsmart-notsmartqn.png" alt="A user not acting SMART" class ="mx-auto" width="300" hight="auto"/>
+<div class="center-image">
+  <img src="../img/actingsmart/actingsmart-notsmartqn.png" alt="A user acting SMART" width="300" />
+</div>
 
 The question needs more details about what was done to resolve the issue before posting. It only provides the error message and some code snippets without indicating any troubleshooting steps. There is no indication of prior debugging. The user does not mention perusing documentation or trying any solutions. The error message is clear, but the question needs to explain the conditions in place further. Doing so would make it easier to provide a targeted solution. Later, another user had the same issue and posted a reply to the question. The author had found a solution and shared it when asked. A significant positive to having a community is having a collaborative network. Finding a solution to an issue you had that was not resolved is critical for us to grow as a community.
 
