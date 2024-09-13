@@ -31,7 +31,7 @@ Others should also be taken into consideration when asking a question. Providing
 The [SMART](https://stackoverflow.com/questions/9730612/get-element-css-property-width-height-value-as-it-was-set-in-percent-em-px-et) question I found was about getting an element's CSS property value as it was set in various units. The question provides a specific example with code and describes what has been attempted using getComputedStyle and css(), as well as, their behaviour. The mention of the Chrome Inspector is particularly useful for understanding the context of the question.
 
 <div class="center-image">
-  <img src="../img/actingsmart/actingsmart-smartqn.png" alt="A user acting SMART" width="75 0" />
+  <img src="../img/actingsmart/actingsmart-smartqn.png" alt="A user acting SMART" width="750" />
 </div>
 
 As mentioned, the question includes snippets of HTML and CSS code, which helps to clarify the issue. It shows a level of detail about the problem and what is expected. The user demonstrates learning by referring to existing methods and noting what did not work. The question is specific about the desired outcome (getting the original unit's value) and the current methods' issue. The question is well done, but they could improve by mentioning any resources that they have looked at, eg. documentation.
