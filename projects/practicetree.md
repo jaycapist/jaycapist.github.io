@@ -46,8 +46,6 @@ I plan to enhance the BST implementation with the following features:
 
 These enhancements will improve the BST's functionality and provide more tools for managing and querying tree data structures.
 
-Feel free to check out the project or reach out if you have any questions!
+Feel free to reach out if you have any questions!
 
 ---
-
-For more details, visit Project Repository.

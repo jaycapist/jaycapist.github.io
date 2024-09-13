@@ -34,8 +34,6 @@ Working on this project gave me valuable insights into managing linked data stru
 - **Expand Features**: Plan to add more advanced filtering and search options based on user feedback.
 - **Performance Optimization**: Aim to optimize the system for handling larger datasets more efficiently.
 
-Feel free to check out the project or reach out if you have any questions!
+Feel free to reach out if you have any questions!
 
 ---
-
-For more details, you can access the Project Documentation.
