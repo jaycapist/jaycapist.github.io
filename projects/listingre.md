@@ -27,12 +27,12 @@ In this project, I was solely responsible for the entire development process. Th
 ## Insights and Learnings
 
 
-Working on this project gave me valuable insights into managing linked data structures and applying object-oriented principles in Java. I gained a deeper understanding of how to manage linked lists, including node insertion, deletion, and search operations effectively. The project emphasized the importance of robust error handling and method efficiency, demonstrating how critical it is to address edge cases to maintain system reliability. I also learned the benefits of modular design, as breaking down the system into manageable components made development and maintenance more organized. This experience highlighted the practicality and importance of straightforward, criteria-based filtering for real-world applications and improved my skills in Java programming. Overall, the project has prepared me for tackling more complex data management challenges and has strengthened my ability to design scalable, efficient systems.
+Working on this project gave me valuable insights into managing linked data structures and applying object-oriented principles in Java. I gained a deeper understanding of how to manage linked lists, including node insertion, deletion, and search operations effectively. The project emphasised the importance of robust error handling and method efficiency, demonstrating how critical it is to address edge cases to maintain system reliability. I also learnt the benefits of modular design, as breaking down the system into manageable components made development and maintenance more organised. This experience highlighted the practicality and importance of straightforward, criteria-based filtering for real-world applications and improved my skills in Java programming. Overall, the project has prepared me for tackling more complex data management challenges and has strengthened my ability to design scalable, efficient systems.
 
 ## Future Plans
 
 - **Expand Features**: Plan to add more advanced filtering and search options based on user feedback.
-- **Performance Optimization**: Aim to optimize the system for handling larger datasets more efficiently.
+- **Performance Optimisation**: Aim to optimise the system for handling larger datasets more efficiently.
 
 Feel free to reach out if you have any questions!
 

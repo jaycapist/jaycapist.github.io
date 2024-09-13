@@ -6,7 +6,7 @@ title: Advanced Spreadsheet Calculator
 date:  May 18 - July 19 2024
 published: true
 labels: [spreadsheet, calculator, modular design, error handling, algorithm design, scalability, on hold]
-summary: A comprehensive spreadsheet calculator designed to compute spell stats and optimize gameplay in a mobile game.
+summary: A comprehensive spreadsheet calculator designed to compute spell stats and optimise gameplay in a mobile game.
 ---
 
 <div class="text-center p-4">

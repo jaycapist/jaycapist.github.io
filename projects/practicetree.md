@@ -15,7 +15,7 @@ summary: A comprehensive implementation of a Binary Search Tree (BST) in C++ des
 
 ## Project Overview
 
-This project involved creating a Binary Search Tree (BST) implementation in C++ to practice working with tree data structures. I designed this BST to efficiently handle basic operations such as insertion, traversal, and searching. Key features included multiple traversal methods (preorder, inorder, and postorder) and utility functions to find successors, count nodes, and determine tree depth. This implementation aimed to provide a robust tool for understanding tree operations and their applications, including efficiently managing and querying hierarchical data. The BST's efficiency in handling these operations adds significant value to the project.
+This project involved creating a Binary Search Tree (BST) implementation in C++ to practise working with tree data structures. I designed this BST to efficiently handle basic operations such as insertion, traversal, and searching. Key features included multiple traversal methods (preorder, inorder, and postorder) and utility functions to find successors, count nodes, and determine tree depth. This implementation aimed to provide a robust tool for understanding tree operations and their applications, including efficiently managing and querying hierarchical data. The BST's efficiency in handling these operations adds significant value to the project.
 
 ## Key Features
 
@@ -27,11 +27,11 @@ This project involved creating a Binary Search Tree (BST) implementation in C++ 
 
 ## Role and Responsibilities
 
-In this project, I took on the role of the sole developer, handling all features of the BST's design and implementation. I was responsible for creating the core data structures, including the BST and bst_node classes, and implementing critical functions such as node insertion, traversal methods, and key search. I implemented a modular approach by breaking functionalities into distinct insertion, traversal, and balance-checking methods. This organization enhanced code readability and maintenance. I included features to handle tree balancing and successor finding, ensuring the BST operated efficiently. I also wrote code to manage node counts and depths, which helped me understand the tree's structure and performance.
+In this project, I took on the role of the sole developer, handling all features of the BST's design and implementation. I was responsible for creating the core data structures, including the BST and bst_node classes, and implementing critical functions such as node insertion, traversal methods, and key search. I implemented a modular approach by breaking functionalities into distinct insertion, traversal, and balance-checking methods. This organisation enhanced code readability and maintenance. I included features to handle tree balancing and successor finding, ensuring the BST operated efficiently. I also wrote code to manage node counts and depths, which helped me understand the tree's structure and performance.
 
-## Lessons Learned
+## Lessons Learnt
 
-This project gave me significant insights into tree data structures and their practical implementation. I learned the importance of modular design in managing complex data structures, which made it easier to develop and test individual components of the BST. The project emphasized the value of efficient algorithms for tree operations, such as traversal and node counting, and highlighted the importance of maintaining balance within the tree to optimize performance. I also developed a deeper understanding of memory management in C++, including dynamic memory allocation and deallocation. Overall, this project provided a solid foundation in tree data structures and prepared me for more advanced topics in computer science.
+This project gave me significant insights into tree data structures and their practical implementation. I learnt the importance of modular design in managing complex data structures, which made it easier to develop and test individual components of the BST. The project emphasised the value of efficient algorithms for tree operations, such as traversal and node counting, and highlighted the importance of maintaining balance within the tree to optimise performance. I also developed a deeper understanding of memory management in C++, including dynamic memory allocation and deallocation. Overall, this project provided a solid foundation in tree data structures and prepared me for more advanced topics in computer science.
 
 ## Future Plans
 
