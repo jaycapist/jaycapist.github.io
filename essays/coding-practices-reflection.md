@@ -11,6 +11,8 @@ labels:
  - Collaboration
  ---
 
+	Initially, I was intimidated by the idea of ESLint. I worried I would not be able to remember all the rules. However, as I started writing code, I found comfort in having a consistent applied set of guidelines. Rather than feeling restrictive, these standards provided a helpful structure that made coding easier.
+
 ## Linting
 
 	Initially, I was intimidated by the idea of ESLint. I worried I would not be able to remember all the rules. However, as I started writing code, I found comfort in having a consistent applied set of guidelines. Rather than feeling restrictive, these standards provided a helpful structure that made coding easier.
