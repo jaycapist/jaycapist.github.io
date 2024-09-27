@@ -5,7 +5,10 @@ title: "Comfort in Linting"
 date: September 26, 2024
 published: true
 labels:
+ - Coding Standard
  - Coding Practices
+ - Typescript
+ - Software Development
 ---
 
 ## Linting
