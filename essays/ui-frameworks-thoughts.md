@@ -32,7 +32,7 @@ This was mentioned previously, but it helps to simplify the overall development 
 Bootstrap 5 particularly offers an easily digestible and customisable grid system to build off of. I had used Bootstrap 5 as early as when my class created our professional portfolios. It was very easy to digest and understand, even if I only went so deep when using it. It worked well when helping me to resize elements for desktop and mobile. I noticed that I did not need to use @media queries to do things, which was interesting. It seemed like it would be a lot easier.
 
 <div class="text-center p-4">
-  <img src="img/portfolio-home-page.png" alt="Two webpages, left is the original and the right is an attempted recreation." style="width:600px;">
+  <img src="../img/portfolio-home-page.png" alt="Two webpages, left is the original and the right is an attempted recreation." style="width:600px;">
 </div>
 
 # Closing Thoughts
@@ -42,5 +42,5 @@ Bootstrap 5 is challenging but very rewarding. With a background focused primari
 A steep learning curve should never dissuade someone from learning anything--that is what I personally think. It is not like I had an easy time trying to learn Bootstrap 5. I especially struggled a lot with joining CSS and Bootstrap 5. Bootstrap has built-in CSS that created specificity challenges for me, leading to frustration as I tried to determine why some elements were styled a certain way. Is it the margin? Padding? Wait it is neither? Where is it coming from, is it from inheritance? Navigating these challenges forced me to deepen my understanding of HTML and CSS, ultimately making me a more agile developer. Despite the struggles, I appreciated the flexibility Bootstrap provided. It empowered me to recreate the website of one of my favourite bands with relative ease, something that would have been far more difficult in raw HTML and CSS.
 
 <div class="text-center p-4">
-  <img src="img/bootstrap5-site-recreation.jpg" alt="Two webpaes, left is the original and the right is an attempted recreation." style="width:600px;">
+  <img src="../img/bootstrap5-site-recreation.jpg" alt="Two webpaes, left is the original and the right is an attempted recreation." style="width:600px;">
 </div>
