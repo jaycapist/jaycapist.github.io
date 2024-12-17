@@ -11,9 +11,9 @@ labels:
 ---
 
 <div style="text-align: center;">
-  <strong style="font-size: 24px; padding-top: 15px;">"AI as enablers, not as the solution" ~ Jayden 2024</strong>
+  <strong style="font-size: 24px; padding-top: 24px;">"AI as enablers, not as the solution" ~ Jayden 2024</strong>
   <br>
-  <img src="../img/aireflection/ai-tool-book.png" alt="AI as a tool or a resource" width="500" style="padding-top: 15px; padding-bottom: 15px;" />
+  <img src="../img/aireflection/ai-tool-book.png" alt="AI as a tool or a resource" width="500" style="padding-top: 16px; padding-bottom: 24px;" />
 </div>
 
 In Academia, I have personally seen a dramatic rise in AI use for student assistance. This is not only found in the Computer Science (CS) major but in multiple majors. In the CS major, AI is commonly used to explain, write, debug, test, and fix student code. I have used ChatGPT and Co-Pilot.
@@ -103,7 +103,7 @@ Trying to make further progress from that point requires you to fidget around bl
 
 ___
 
-# Comparative Analysis:
+# Comparative Analysis
 
 Generally speaking, AI may be rather harmful as opposed to traditional teaching methods. However, it is also rather difficult to compare the two. How are we supposed to consider the self-responsibility a student has to actually utilise AI to learn rather than to breeze through things? Similarly, teachers do not have a set quality to them. Some teachers can explain concepts very well and others may find it more difficult.
 

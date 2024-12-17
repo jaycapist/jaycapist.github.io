@@ -44,5 +44,6 @@
 }
 
 #essays {
-    padding: 16 0 16 0px;
+    padding-top: 16px;
+    padding-bottom: 16px;
 }
