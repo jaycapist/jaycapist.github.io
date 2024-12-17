@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-  <strong style="font-size: 24px; padding: 15 0 0 0px;">"AI as enablers, not as the solution" ~ Jayden 2024</strong>
+  <strong style="font-size: 24px; padding-top: 15px;">"AI as enablers, not as the solution" ~ Jayden 2024</strong>
   <br>
   <img src="../img/aireflection/ai-tool-book.png" alt="AI as a tool or a resource" width="500" style="padding: 15 0 15 0 px;" />
 </div>
