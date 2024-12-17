@@ -16,21 +16,48 @@
   "interests": [
     { "name": "Database Management" },
     { "name": "Cloud Platforms" },
-    { "name": "Data Analytics and Visualization" },
     { "name": "Project Management" },
     { "name": "Software Architecture" },
-    { "name": "Hadoop and Spark" }
+    { "name": "Natural Language Processing" }
   ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "Python", "HTML", "CSS", "R" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Git/GitHub" ]
-    }
-  ],
+"skills": [
+  {
+    "name": "Languages and Frameworks",
+    "keywords": [
+      "C", "C++", "Java", "JavaScript", "TypeScript", "HTML", "CSS", "Next.js"
+    ]
+  },
+  {
+    "name": "Back-End Technologies",
+    "keywords": [
+      "Node.js", "PostgreSQL", "NeonDB"
+    ]
+  },
+  {
+    "name": "Databases",
+    "keywords": [
+      "PostgreSQL", "PgAdmin4", "NeonDB"
+    ]
+  },
+  {
+    "name": "Deployment & Hosting",
+    "keywords": [
+      "Vercel"
+    ]
+  },
+  {
+    "name": "Version Control",
+    "keywords": [
+      "Git", "GitHub"
+    ]
+  },
+  {
+    "name": "Operating Systems",
+    "keywords": [
+      "Windows"
+    ]
+  }
+],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
