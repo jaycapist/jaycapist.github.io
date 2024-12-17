@@ -87,7 +87,7 @@ ___
 
 AI is used widely, you likely can integrate AI somehow into every part of your life. For health, some apps use AI to customise meal plans based on your preferences and goals.
 
-For Software Engineers (SWE), AI is already integrated into many IDEs like Visual Studio Code (VSC). To say the least, I was baffled when it was trying to give me an entire function without me asking. I had not expected that to be a feature at the time. 
+For Software Engineers (SWE), AI is already integrated into many IDEs like Visual Studio Code. To say the least, I was baffled when it was trying to give me an entire function without me asking. I had not expected that to be a feature at the time. 
 
 Besides that, AI is an incredible resource for many SWEs due to other reasons. As mentioned above I extensively used AI to create test cases. I expect that in the real world, this use case would be rather common for SWEs. There are also AIs that are able to debug code and make code reviews. 
 
