@@ -115,7 +115,7 @@ ___
 
 # Future Considerations
 
-The biggest challenge I see for peers and underclassmen struggling with most will be self-responsibility in learning course content rather than depending on AI. Presently, this is already an issue that I am seeing. However, it can still become increasingly worse. That is similarly something that people would need to work on in the future, using AI as a resource rather than as a tool.
+The biggest challenge I see for peers and underclassmen struggling with most will be self-responsibility in learning course content rather than depending on AI. Presently, this is already an issue that I am seeing. However, it can still become increasingly worse. That is similarly something that people would need to work on in the future, using AI as a resource or a tool rather than as a solution.
 
 ___
 
