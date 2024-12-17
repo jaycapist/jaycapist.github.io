@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI: A Resource or a Tool"
+title: "AI: A Resource, a Tool, or a Solution"
 date: December 16, 2024
 published: true
 labels:
@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-  > "AI as enablers, not as the solution" ~ Jayden 2024
+  > "AI as enablers, not as the solution" ~ Jayden 2024 <br>
   <img src="../img/aireflection/AIEssayImage2-removebg-preview.png" alt="AI as a tool or a resource" width="500" />
 </div>
 
