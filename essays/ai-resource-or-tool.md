@@ -11,9 +11,9 @@ labels:
 ---
 
 <div style="text-align: center;">
-  **"AI as enablers, not as the solution" ~ Jayden 2024**
+  <strong style="font-size: 24px; padding: 1 0 0 0rem;">"AI as enablers, not as the solution" ~ Jayden 2024</strong>
   <br>
-  <img src="../img/aireflection/ai-tool-book.png" alt="AI as a tool or a resource" width="500" />
+  <img src="../img/aireflection/ai-tool-book.png" alt="AI as a tool or a resource" width="500" style="padding: 1 0 1 0rem;" />
 </div>
 
 In Academia, I have personally seen a dramatic rise in AI use for student assistance. This is not only found in the Computer Science (CS) major but in multiple majors. In the CS major, AI is commonly used to explain, write, debug, test, and fix student code. I have used ChatGPT and Co-Pilot.
