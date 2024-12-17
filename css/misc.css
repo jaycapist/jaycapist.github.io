@@ -37,3 +37,8 @@
 .img-thumbnail {
     background-color: var(--bs-border-color); /* Colour picture background */
 }
+
+#projects > div:nth-child(1) > p:nth-child(3),
+#essays > div:nth-child(1) > p:nth-child(3)  {
+    color: var(--tf-tertiary);
+}
