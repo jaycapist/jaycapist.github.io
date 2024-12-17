@@ -39,6 +39,10 @@
 }
 
 #projects > div:nth-child(1) > p:nth-child(3) > a,
-#essays > div:nth-child(1) > p:nth-child(3) > a  {
+#essays > div:nth-child(1) > p:nth-child(3) > a  { /* Colour see all links on home page */
     color: var(--tf-tertiary);
+}
+
+#essays {
+    padding: 16 0 16 0 px
 }
