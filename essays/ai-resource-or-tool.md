@@ -10,7 +10,7 @@ labels:
  - Reflection
 ---
 
-> "AI as enablers, not as the solution"
+> "AI as enablers, not as the solution" ~ Jayden 2024
 
 <div class="center-image">
  <img src="../img/aireflection/AIEssayImage2-removebg-preview.png" alt="AI as a tool or a resource" width="500" />
