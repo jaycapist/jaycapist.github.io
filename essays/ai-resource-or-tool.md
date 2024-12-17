@@ -11,7 +11,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-  <strong style="font-size: 24px; padding-top: 24px;">"AI as enablers, not as the solution" ~ Jayden 2024</strong>
+  <strong style="font-size: 24px; padding-top: 24px;">"AI as enablers, not as the solution" ~Jayden 2024</strong>
   <br>
   <img src="../img/aireflection/ai-tool-book(1).png" alt="AI as a tool or a resource" width="300" style="padding-top: 16px; padding-bottom: 24px;" />
 </div>
@@ -103,7 +103,7 @@ Trying to make further progress from that point requires you to fidget around bl
 
 ___
 
-# Comparative Analysis
+# Comparative Analyses
 
 Generally speaking, AI may be rather harmful as opposed to traditional teaching methods. However, it is also rather difficult to compare the two. How are we supposed to consider the self-responsibility a student has to actually utilise AI to learn rather than to breeze through things? Similarly, teachers do not have a set quality to them. Some teachers can explain concepts very well and others may find it more difficult.
 
@@ -116,6 +116,8 @@ ___
 # Future Considerations
 
 The biggest challenge I see for peers and underclassmen struggling with most will be self-responsibility in learning course content rather than depending on AI. Presently, this is already an issue that I am seeing. However, it can still become increasingly worse. That is similarly something that people would need to work on in the future, using AI as a resource rather than as a tool.
+
+___
 
 # Conclusion
 
