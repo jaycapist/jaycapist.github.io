@@ -26,7 +26,7 @@ APM is an approach to project management that breaks the work into smaller and m
 <div style="text-align: center;">
   <strong style="font-size: 24px; padding-top: 24px;">List of Issues</strong>
   <br>
-  <img src="../img/ics314reflection/issues-list.png" alt="List of Issues Sheet" width="500" style="padding-top: 16px; padding-bottom: 24px;" />
+  <img src="../img/ics314reflection/issues-list.png" alt="List of Issues Sheet" width="300" style="padding-top: 16px; padding-bottom: 24px;" />
 </div>
 
 In the spreadsheet project, I had a list on the first sheet that kept track of things that needed to be done. For example, portions of the calculator that were still not implemented, issues that I noticed with the game, issues in the calculator, etc. With this approach, I was able to identify and slowly work out many kinks one at a time. If I had not tracked down different issues, I likely would have burnt out far earlier in the development of the calculator. Breaking it down allowed me to slowly build the calculator up step by step--assuring robustness.
