@@ -23,6 +23,12 @@ One of my most significant and recent non-programming projects was a spreadsheet
 
 APM is an approach to project management that breaks the work into smaller and manageable pieces. Issue-Driven Project Management (IDPM) emphasises priority in addressing issues and tasks to keep the project organised and adaptable.
 
+<div style="text-align: center;">
+  <strong style="font-size: 24px; padding-top: 24px;">List of Issues</strong>
+  <br>
+  <img src="../img/aireflection/ai-tool-book(1).png" alt="AI as a tool or a resource" width="300" style="padding-top: 16px; padding-bottom: 24px;" />
+</div>
+
 In the spreadsheet project, I had a list on the first sheet that kept track of things that needed to be done. For example, portions of the calculator that were still not implemented, issues that I noticed with the game, issues in the calculator, etc. With this approach, I was able to identify and slowly work out many kinks one at a time. If I had not tracked down different issues, I likely would have burnt out far earlier in the development of the calculator. Breaking it down allowed me to slowly build the calculator up step by step--assuring robustness.
 
 ## Coding Standards
@@ -33,7 +39,31 @@ Coding with Standards is following rules and conventions to maintain consistency
 
 Design patterns are best practices used to avoid common problems when designing systems. For example, a modular structure. This emphasises smaller parts making up a project by having independent but smaller functions; it is more easily maintainable.
 
+<div style="text-align: center;">
+  <strong style="font-size: 24px; padding-top: 24px;">Item's Front-end</strong>
+  <br>
+  <img src="../img/aireflection/ai-tool-book(1).png" alt="AI as a tool or a resource" width="300" style="padding-top: 16px; padding-bottom: 24px;" />
+  <br>
+  <strong style="font-size: 24px; padding-top: 24px;">Item's Back-end</strong>
+  <br>
+  <img src="../img/aireflection/ai-tool-book(1).png" alt="AI as a tool or a resource" width="300" style="padding-top: 16px; padding-bottom: 24px;" />
+</div>
+
 In the spreadsheet, I separated all pages into front and back ends. The back end broke up, organised, or held the needed data to be used in more complex areas. Items are mixed up on the front-end items page, so I strived to reorganise them on my back-end page.
+
+<div style="text-align: center;">
+  <strong style="font-size: 24px; padding-top: 24px;">Spell's Back-end</strong>
+  <br>
+  <img src="../img/aireflection/ai-tool-book(1).png" alt="AI as a tool or a resource" width="300" style="padding-top: 16px; padding-bottom: 24px;" />
+</div>
+
+I have the basic and more advanced values in the Spells back end needed for stat calculations. By having them on their own in the back-end with no to minimal functions, I can update values with significantly less effort. I am not required to read a 250-character formula to decide what value I am supposed to change.
+
+<div style="text-align: center;">
+  <strong style="font-size: 24px; padding-top: 24px;">Main Back-end</strong>
+  <br>
+  <img src="../img/aireflection/ai-tool-book(1).png" alt="AI as a tool or a resource" width="300" style="padding-top: 16px; padding-bottom: 24px;" />
+</div>
 
 The main back end page has the final stat calculations for the character broken up into smaller pieces. Another pro to modular coding is expanding the types of implementations available. Some of these were core focuses I wanted with my calculator.
 
