@@ -16,7 +16,7 @@ Throughout ICS314, what we worked on was considered web application development.
 
 # Reflecting on Applicable Concepts
 
-One of my most significant and recent non-programming projects was a spreadsheet calculator for a mobile game. The point of the spreadsheet was to calculate spell and character stats. There are ideas we learned in class that I unknowingly applied to the project--to some extent.
+One of my most significant and recent non-programming projects was a [spreadsheet calculator](https://jaydenontalancapistrano.github.io/projects/spreadsheetcalculator.html) for a mobile game. The point of the spreadsheet was to calculate spell and character stats. There are ideas we learned in class that I unknowingly applied to the project--to some extent.
 
 ## Agile Project Management (APM)
 
