@@ -28,9 +28,9 @@ In addition to the mockups, I worked extensively on the backend and frontend imp
 <div style="text-align: center;">
   <strong style="font-size: 24px; padding-top: 24px;">Create Session Page</strong>
   <br>
-  <img src="../img/fourwardthinking/create-details-coded.png" alt="Create study session page" width="750" style="padding-top: 16px; padding-bottom: 24px;" />
+  <img src="../img/fourwardthinking/create-details-coded.png" alt="Create study session page" width="750" style="padding-top: 16px;" />
   <br>
-  <strong style="font-size: 18px;">backend implemented</strong>
+  <strong style="font-size: 18px; adding-bottom: 24px;">backend implemented</strong>
 </div>
 
 For the Session Details page, I had only finished a html mockup of the page. A backend implementation was not finished before Milestone three.
@@ -38,9 +38,9 @@ For the Session Details page, I had only finished a html mockup of the page. A b
 <div style="text-align: center;">
   <strong style="font-size: 24px; padding-top: 24px;">Session Details Page</strong>
   <br>
-  <img src="../img/fourwardthinking/session-details-coded.png" alt="Study sessions detail page" width="750" style="padding-top: 16px; padding-bottom: 24px;" />
+  <img src="../img/fourwardthinking/session-details-coded.png" alt="Study sessions detail page" width="750" style="padding-top: 16px;" />
   <br>
-  <strong style="font-size: 18px;">no backend implementation</strong>
+  <strong style="font-size: 18px; adding-bottom: 24px;">no backend implementation</strong>
 </div>
 
 Unfortunately, due to challenges with breaking down tasks into smaller, more manageable pieces, I was unable to meet the full implementation goals for Milestone two. Initially, the project was meant to be developed by 4-6 team members, but with one member absent from the start and another disappearing after Milestone 1, the workload fell heavily on myself and my remaining teammate.
