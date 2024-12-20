@@ -2,24 +2,26 @@
 layout: project
 type: project
 image: img/fourwardthinking/fourward-thinking-logo.png
-title: Fuurward Thinking
+title: Fourward Thinking [Hiatus]
 date: July 21, 2024
 published: true
-labels: [C++, tree data structures, algorithm design, modular design, traversal methods, memory management]
+labels: [modular design, web development, collaboration, final project, project management]
 summary: A comprehensive implementation of a Binary Search Tree (BST) in C++ designed to handle core operations efficiently, with a focus on traversal methods and modular design.
 ---
 
 <div class="text-center p-4">
   <img width="500px" src="../img/fourwardthinking/leading-image.png" alt="Drawing of students discussing together" class="img-thumbnail" >
 </div>
+
 # Project Overview
 
-Fourward Thinking is an application developed to help ICS students at the University of Hawai'i Manoa (UHM) connect and collaborate on study sessions. The application allows students to easily organize face-to-face study groups for specific courses, homework assignments, or project topics. The goal of the project is to enhance peer-to-peer collaboration and reduce the isolation students often experience while studying, leading to more efficient learning and better academic outcomes.
+Fourward Thinking is an application developed to help ICS students at the University of Hawai'i Manoa (UHM) connect and collaborate on study sessions. The application allows students to easily organise face-to-face study groups for specific courses, homework assignments, or project topics. The goal of the project is to enhance peer-to-peer collaboration and reduce the isolation students often experience while studying, leading to more efficient learning and better academic outcomes.
 
-The app includes features like profile creation, study session proposal and scheduling, a real-time calendar view, and an interactive system that allows students to offer or request help with specific topics. It supports both planned study sessions for future dates and immediate help requests for impromptu study groups. The project is live on Vercel for public access.
-My Role
+The app includes features like profile creation, study session proposal and scheduling, a real-time calendar view, and an interactive system that allows students to offer or request help with specific topics. It supports both planned study sessions for future dates and immediate help requests for impromptu study groups. The project is [live on Vercel](https://fourward-thinking-application.vercel.app) for public access.
 
-As a key member of the development team, I contributed to both the frontend and backend of the project. Specifically, I worked on the HTML mockups for key pages, such as the Session Details Page and Create Session Page. These mockups were crucial in the early stages of the project to define the structure and flow of the user interface.
+# Contributions
+
+As a key member of the team, I contributed to both the frontend and backend of the project. Specifically, I worked on the HTML mockups for key pages, such as the Session Details Page and Create Session Page. These mockups were crucial in the early stages of the project to define the structure and flow of the user interface.
 
 In addition to the mockups, I worked extensively on the backend and frontend implementation of the Create Session page, which allows students to propose study sessions by selecting courses, topics, and scheduling times. This involved integrating user inputs with the backend system, ensuring that data was properly stored, and implementing the necessary logic for real-time notifications to other students.
 
@@ -45,7 +47,7 @@ Unfortunately, due to challenges with breaking down tasks into smaller, more man
 
 The experience taught me the importance of breaking tasks into smaller, more achievable chunks and adhering to design patterns and Iterative Design and Project Management (IDPM). It became clear how easy it is to overestimate one’s ability to handle multiple complex tasks in a single branch of the project, leading to delays and inefficiencies.
 
-# Insights and Learnings
+# Insights and Attainments
 
 Working on Fourward Thinking has been an incredible learning experience. One of the biggest takeaways was the importance of breaking down tasks into smaller, manageable pieces. During Milestone two, I encountered issues by taking on too much at once within a single branch, which hindered my progress. I quickly realised that adopting a more modular approach—where I tackled smaller tasks one at a time—would have been more effective.
 
