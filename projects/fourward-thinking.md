@@ -28,7 +28,7 @@ In addition to the mockups, I worked extensively on the backend and frontend imp
 <div style="text-align: center;">
   <strong style="font-size: 24px; padding-top: 24px;">Create Session Page</strong>
   <br>
-  <img src="../img/fourwardthinking/session-details-coded.png" alt="Create study session page" width="750" style="padding-top: 16px; padding-bottom: 24px;" />
+  <img src="../img/fourwardthinking/create-details-coded.png" alt="Create study session page" width="750" style="padding-top: 16px; padding-bottom: 24px;" />
   <br>
   <strong style="font-size: 18px;">backend implemented</strong>
 </div>
