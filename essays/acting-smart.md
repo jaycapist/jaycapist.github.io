@@ -5,13 +5,11 @@ title: "Acting SMART"
 date: September 12, 2024
 published: true
 labels:
- - Software Engineering
- - Efficiency
  - Collaboration
- - Respect
  - Community
+ - Communication
  - Learning
- - Effective Communication
+ - Software Engineering
 ---
 
 SMART questions are essential not only for software engineers who want to solve problems. It is similarly applicable in other fields. Any field can communicate more efficiently and contribute to the collective knowledge of their field by acting SMART. 
