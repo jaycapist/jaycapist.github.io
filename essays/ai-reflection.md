@@ -5,9 +5,9 @@ title: "AI: A Resource, a Tool, or a Solution"
 date: December 16, 2024
 published: true
 labels:
- - Software Engineering
  - Artificial Intelligence
  - Reflection
+ - Software Engineering
 ---
 
 <div style="text-align: center;">
