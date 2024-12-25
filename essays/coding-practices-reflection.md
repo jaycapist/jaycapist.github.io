@@ -13,6 +13,7 @@ labels:
 ---
 
 ## Linting
+
 Initially, I was intimidated by the idea of coding standards. I worried I would not be able to remember all the rules. However, as I started writing code, I found comfort in having a consistent set of guidelines. Rather than feeling restrictive, these standards provided a helpful framework that made coding easier.
 
 ## Understanding the Game
@@ -29,4 +30,4 @@ In ICS 311: Algorithms and Data Structures, we will eventually implement code in
 
 ## Applying ESLint
 
-What once felt intimidating is now comforting, as coding standards assist me in writing cleaner and more effective code. Each ESLint error I correct reinforces my understanding of the language and its best practices, significantly contributing to my growth. I am excited to see how these standards will enhance collaboration in group projects, making our code more consistent and improving communication among team members. Embracing coding standards has transformed my approach to coding, and I look forward to applying them as I continue developing my skills.
+What once felt intimidating is now comforting, as coding standards assist me in writing cleaner and more effective code. Each ESLint error I correct reinforces my understanding of the language and its best practices, significantly contributing to my growth. I am excited to see how these standards will enhance collaboration in group projects, making our code more consistent and improving communication among team members. Embracing coding standards has transformed my approach to coding, I look forward to applying them as I continue developing my skills.
