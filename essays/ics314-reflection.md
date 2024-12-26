@@ -5,11 +5,12 @@ title: "Reflection on ICS 314"
 date: 2024-12-18
 published: true
 labels:
-  - Software Engineering
-  - Web Application Development
-  - Agile Project Manapement
+  - Project Manapement
   - Coding Standards
   - Design Patterns
+  - Reflection
+  - Software Engineering
+  - Web Application Development
 ---
 
 Throughout ICS314, what we worked on was considered web application development. This may seem rather odd in a class titled 'Software Engineering I'. However, the concepts that we have learned are applicable to more than just web application development. Reflecting on the course material thus far, I recognise some ideas that applied to projects I have done previous to this class. 
