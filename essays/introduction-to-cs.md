@@ -1,20 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "Evading the Scene"
+title: "Intro to CS: Evading the Scene"
 date: September 10, 2024
 published: true
 labels:
- - Software Engineering
  - Career Development
  - Interests
+ - Software Engineering
+ - Reflection
 ---
 
  Initially, I did not want to take the Computer Science pathway. However, things had changed.
 
-
  > "When you change the way you look at things, the things you look at change." ~ Max Planck
-
 
 ## Evasion
 
