@@ -4,6 +4,7 @@ type: essay
 title: "Reflection on ICS 314"
 date: 2024-12-18
 published: true
+category: reflection
 labels:
   - Project Manapement
   - Coding Standards

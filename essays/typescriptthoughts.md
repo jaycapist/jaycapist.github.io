@@ -4,6 +4,7 @@ type: essay
 title: "Learning How to Script"
 date: September 5, 2024
 published: true
+category: reflection
 labels:
  - Java
  - JavaScript
