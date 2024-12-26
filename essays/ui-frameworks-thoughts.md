@@ -6,11 +6,12 @@ date: October 10, 2024
 published: true
 labels:
  - Bootstrap 5
- - Front-end
- - Web Development
- - UI Framewoks
- - HTML
  - CSS
+ - Front-end
+ - HTML
+ - Reflection
+ - UI Framewoks
+ - Web Development
 ---
 
 User interface (UI) frameworks are mighty assistive tools for developers seeking to create attractive and responsive web applications. Among these, Bootstrap 5 stands out for its flexibility. Learning a new framework is as daunting as learning a new programming language, and the investment may or may not pay off. If it does, then that introduces the developer to an extensive way to more efficiently customise their website.
