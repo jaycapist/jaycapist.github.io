@@ -1,16 +1,16 @@
 ---
 layout: essay
 type: essay
-title: "Learning How to 'Script'"
+title: "Learning How to Script"
 date: September 5, 2024
 published: true
 labels:
- - Typescript
- - JavaScript
  - Java
- - Programming
+ - JavaScript
  - Flexibility
+ - Reflection
  - Scalability
+ - Typescript
 ---
 
  Starting with Typescript has been eye-opening for me, especially from a Java background. Typescript and JavaScript were new terrains, but my Java experience provided a stable foundation.
