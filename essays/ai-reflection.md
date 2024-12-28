@@ -4,7 +4,7 @@ type: essay
 title: "AI: A Resource, a Tool, or a Solution"
 date: December 16, 2024
 published: true
-category: reflection
+category: "reflections"
 labels:
  - Artificial Intelligence
  - Reflection

@@ -4,7 +4,7 @@ type: essay
 title: "Acting SMART"
 date: September 12, 2024
 published: true
-category: reflection
+category: "reflections"
 labels:
  - Collaboration
  - Community

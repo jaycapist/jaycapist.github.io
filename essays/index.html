@@ -1,31 +1,6 @@
-{% if page.category == "reflection" %}
-  <!-- Display reflection essays -->
-  {% for essay in site.essays %}
-    {% if essay.category == "reflection" %}
-      <div class="essay">
-        <h3><a href="{{ essay.url }}">{{ essay.title }}</a></h3>
-        <p>{{ essay.excerpt }}</p>
-      </div>
-    {% endif %}
-  {% endfor %}
-  
-{% elsif page.category == "projectideas" %}
-  <!-- Display project ideas essays -->
-  {% for essay in site.essays %}
-    {% if essay.category == "projectideas" %}
-      <div class="essay">
-        <h3><a href="{{ essay.url }}">{{ essay.title }}</a></h3>
-        <p>{{ essay.excerpt }}</p>
-      </div>
-    {% endif %}
-  {% endfor %}
-  
-{% else %}
-  <!-- Default fallback or show all essays -->
-  {% for essay in site.essays %}
-    <div class="essay">
-      <h3><a href="{{ essay.url }}">{{ essay.title }}</a></h3>
-      <p>{{ essay.excerpt }}</p>
-    </div>
-  {% endfor %}
-{% endif %}
+---
+title: Essays
+layout: home
+---
+
+{% include essays/essays.html %}  

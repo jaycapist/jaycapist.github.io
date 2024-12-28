@@ -8,21 +8,7 @@ layout: home
 </div>
 
 <div class="content"></div>
-
-<!-- Projects Section -->
 {% include projects/projects.html limit=3 %}
-
 <hr>
-
-<!-- Essays Section-->
-<div id="essays-section">
-    <div id="essays-reflection">
-        <h2>Reflection</h2>
-        {% include essays/essays.html category="reflection" %}
-    </div>
-    <div id="essays-projectideas">
-        <h2>Project Ideas</h2>
-        {% include essays/essays.html category="projectideas" %}
-    </div>
-</div>
-
+<!-- Filter and show essays of type "projectideas" -->
+{% include essays/essays.html category="projectideas" limit=3 %}

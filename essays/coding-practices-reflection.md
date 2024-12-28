@@ -4,7 +4,7 @@ type: essay
 title: "Comfort in Linting"
 date: September 26, 2024
 published: true
-category: reflection
+category: "reflections"
 labels:
  - Coding Practices
  - Coding Standard
