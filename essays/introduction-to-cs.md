@@ -4,6 +4,7 @@ type: essay
 title: "Intro to CS: Evading the Scene"
 date: September 10, 2024
 published: true
+category: "reflections"
 labels:
  - Career Development
  - Interests

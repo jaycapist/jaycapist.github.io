@@ -4,6 +4,7 @@ type: essay
 title: "Understanding Interfaces"
 date: October 10, 2024
 published: true
+category: "reflections"
 labels:
  - Bootstrap 5
  - CSS

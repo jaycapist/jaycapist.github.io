@@ -4,6 +4,7 @@ type: essay
 title: "ICS 314: Final Project Idea"
 date: 2024-11-04
 published: true
+category: "projectideas"
 labels:
   - Software Engineering
   - Project Idea
