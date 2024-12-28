@@ -10,7 +10,6 @@ labels:
  - CSS
  - Front-end
  - HTML
- - Reflection
  - UI Framewoks
  - Web Development
 ---

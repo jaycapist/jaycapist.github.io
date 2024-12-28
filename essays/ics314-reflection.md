@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflection on ICS 314"
+title: "ICS 314: Software Engineering I"
 date: 2024-12-18
 published: true
 category: "reflections"
@@ -9,7 +9,6 @@ labels:
   - Project Manapement
   - Coding Standards
   - Design Patterns
-  - Reflection
   - Software Engineering
   - Web Application Development
 ---

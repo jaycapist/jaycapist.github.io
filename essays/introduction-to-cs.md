@@ -9,7 +9,6 @@ labels:
  - Career Development
  - Interests
  - Software Engineering
- - Reflection
 ---
 
  Initially, I did not want to take the Computer Science pathway. However, things had changed.

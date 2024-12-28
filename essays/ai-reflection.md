@@ -7,7 +7,6 @@ published: true
 category: "reflections"
 labels:
  - Artificial Intelligence
- - Reflection
  - Software Engineering
 ---
 

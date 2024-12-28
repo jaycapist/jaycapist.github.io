@@ -9,7 +9,6 @@ labels:
  - Java
  - JavaScript
  - Flexibility
- - Reflection
  - Scalability
  - Typescript
 ---

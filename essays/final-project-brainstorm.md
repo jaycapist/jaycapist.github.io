@@ -1,13 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "ICS 314: Final Project Idea"
+title: "ICS 314: Perch Pals"
 date: 2024-11-04
 published: true
 category: "projectideas"
 labels:
   - Software Engineering
-  - Project Idea
 ---
 
 # Overview

@@ -10,7 +10,6 @@ labels:
  - Coding Standard
  - Software Development
  - Typescript
- - Reflection
 ---
 
 ## Linting
