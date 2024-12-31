@@ -39,7 +39,7 @@
 }
 
 #projects > div:nth-child(1) > p:nth-child(3) > a,
-p.text-center:nth-child(6) > a:nth-child(1)  { /* Colour see all links on home page */
+p.text-center:nth-child(6) > a  { /* Colour see all links on home page */
     color: #d97a4f;
 }
 

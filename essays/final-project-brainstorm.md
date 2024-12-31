@@ -6,6 +6,7 @@ date: 2024-11-04
 published: true
 category: "projectideas"
 labels:
+  - Collaborative Project
   - Software Engineering
 ---
 
