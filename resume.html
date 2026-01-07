@@ -57,10 +57,10 @@ layout: home
         <h1 class="display-6 text-start m-0">Skills</h1>
       </div>
       <div class="col-lg-9">
-        <div class="row g-4">
-          {% for entry in site.data.bio.skills %}
-            <div class="col-md-6">
-              <div class="mb-2">
+        <div class="skills-grid">
+          <div class="skills-col">
+            {% for entry in site.data.bio.skills limit: 2 %}
+              <div class="mb-3">
                 <p class="mb-1 fw-semibold">{{ entry.name }}</p>
                 <ul class="mb-0 ps-3 small lh-sm">
                   {% for keyword in entry.keywords %}
@@ -68,8 +68,21 @@ layout: home
                   {% endfor %}
                 </ul>
               </div>
-            </div>
-          {% endfor %}
+            {% endfor %}
+          </div>
+
+          <div class="skills-col">
+            {% for entry in site.data.bio.skills offset: 2 %}
+              <div class="mb-3">
+                <p class="mb-1 fw-semibold">{{ entry.name }}</p>
+                <ul class="mb-0 ps-3 small lh-sm">
+                  {% for keyword in entry.keywords %}
+                    <li class="mb-1">{{ keyword }}</li>
+                  {% endfor %}
+                </ul>
+              </div>
+            {% endfor %}
+          </div>
         </div>
       </div>
     </div>

@@ -47,3 +47,14 @@ p.text-center:nth-child(6) > a  { /* Colour see all links on home page */
     padding-top: 16px;
     padding-bottom: 16px;
 }
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;              /* tight spacing */
+  max-width: 720px;      /* prevent drift */
+}
+
+.skills-col {
+  min-width: 0;
+}
