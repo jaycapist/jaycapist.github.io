@@ -14,26 +14,27 @@ layout: home
 
     <div class="row">
       <div class="col">
-        <div class="contact-inline">
+        <div class="contact-stack">
 
           {% capture url %}{{ site.data.bio.basics.website }}{% endcapture %}
           {% capture label %}{{ site.data.bio.basics.website | remove: "http://" | remove: "https://" }}{% endcapture %}
-          <span class="contact-item">
+          <div class="contact-item">
             {% include about/social.html url=url name='house' label=label %}
-          </span>
+          </div>
 
           {% capture url %}mailto:{{ site.data.bio.basics.email }}{% endcapture %}
           {% capture label %}{{ site.data.bio.basics.email }}{% endcapture %}
-          <span class="contact-item">
+          <div class="contact-item">
             {% include about/social.html url=url name='envelope' label=label %}
-          </span>
+          </div>
 
           {% for profile in site.data.bio.basics.profiles %}
             {% capture name %}{{ profile.network | downcase | strip }}{% endcapture %}
-            <span class="contact-item">
+            <div class="contact-item">
               {% include about/social.html url=profile.url name=name label=profile.username %}
-            </span>
+            </div>
           {% endfor %}
+
         </div>
       </div>
     </div>

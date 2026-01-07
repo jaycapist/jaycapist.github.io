@@ -59,15 +59,36 @@ p.text-center:nth-child(6) > a  { /* Colour see all links on home page */
   min-width: 0;
 }
 
-.contact-inline {
+.contact-stack {
   display: flex;
   justify-content: center;
-  align-items: center;   /* fixes vertical mismatch */
-  gap: 32px;             /* even spacing */
-  margin-top: 0.5rem;
+  gap: 40px;                 /* horizontal spacing */
+  margin-top: 0.75rem;
+  margin-bottom: 0.5rem;
 }
 
-.contact-inline .contact-item {
-  display: inline-flex;
+.contact-item {
+  display: flex;
+  flex-direction: column;   /* icon above text */
   align-items: center;
+  text-align: center;
+}
+
+/* Override TechFolio social link layout */
+.contact-item a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+/* Icon sizing consistency */
+.contact-item i {
+  font-size: 1.25rem;
+  line-height: 1;
+}
+
+/* Text under icon */
+.contact-item span {
+  font-size: 0.9rem;
 }
