@@ -56,12 +56,24 @@ layout: home
       </div>
       <div class="col-lg-9">
         {% for entry in site.data.bio.skills %}
-          <p class="m-0">
-            <b>{{ entry.name }}:</b>
+          <div class="mb-2">
+            <p class="mb-1"><b>{{ entry.name }}</b></p>
+            <ul class="mb-0 ps-3">
               {% for keyword in entry.keywords %}
-                {{ keyword }}{% if forloop.last != true %}, {% endif %}
+                <li>{{ keyword }}</li>
               {% endfor %}
-          </p>
+            </ul>
+          </div>
+        {% endfor %}
+        {% for entry in site.data.bio.skills %}
+          <div class="mb-2">
+            <p class="mb-1"><b>{{ entry.name }}</b></p>
+            <ul class="mb-0 ps-3" style="columns: 2;">
+              {% for keyword in entry.keywords %}
+                <li>{{ keyword }}</li>
+              {% endfor %}
+            </ul>
+          </div>
         {% endfor %}
       </div>
     </div>
