@@ -59,10 +59,15 @@ p.text-center:nth-child(6) > a  { /* Colour see all links on home page */
   min-width: 0;
 }
 
-.contact-grid {
-  display: grid;
-  grid-template-columns: auto auto;
-  column-gap: 32px;
-  row-gap: 6px;
+.contact-inline {
+  display: flex;
+  justify-content: center;
+  align-items: center;   /* fixes vertical mismatch */
+  gap: 32px;             /* even spacing */
+  margin-top: 0.5rem;
+}
+
+.contact-inline .contact-item {
+  display: inline-flex;
   align-items: center;
 }
