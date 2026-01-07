@@ -1,67 +1,56 @@
 {
   "basics": {
     "name": "Jayden Ontalan Capistrano",
-    "label": "Student",
+    "label": "Data Operations and Systems Analyst",
     "picture": "https://media.licdn.com/dms/image/v2/D5603AQFWI0Q8ui_aAQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725067916395?e=1730937600&v=beta&t=XZSjS8SO_vl4PrTaKpd_a6LzY166YGOCCliU9QUIfJw",
     "email": "jaydenc8@hawaii.edu",
     "phone": "",
     "website": "https://jaycapist.github.io",
-    "summary": "I am pursuing a B.S. in Computer Science with the Department of Information and Computer Sciences at the University of Hawaii, with an expected graduation date of Spring 2026.",
+    "summary": "Data Operations and Systems Analyst with hands-on experience transforming unstructured data into auditable, decision-ready outputs across tax, IT, and platform migration workflows.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "jaydenontalancapistrano", "url": "http://github.com/jaydenontalancapistrano" },
+      { "network": "github", "username": "jaycapist", "url": "https://github.com/jaycapist" },
       { "network": "linkedin", "username": "Jayden Ontalan Capistrano", "url": "https://www.linkedin.com/in/jayden-ontalan-capistrano/" }
     ]
   },
   "interests": [
-    { "name": "Database Management" },
-    { "name": "Cloud Platforms" },
-    { "name": "Project Management" },
-    { "name": "Software Architecture" },
-    { "name": "Natural Language Processing" }
+    { "name": "System Design and Data Quality" },
+    { "name": "Information Architecture" },
+    { "name": "Process and Workflow Design" },
+    { "name": "Platform Migrations" },
+    { "name": "Project and Program Management" },
+    { "name": "Document and Knowledge Systems" }
   ],
 "skills": [
   {
-    "name": "Languages and Frameworks",
+    "name": "Data and Systems Tools",
     "keywords": [
-      "C", "C++", "Java", "JavaScript", "TypeScript", "HTML", "CSS", "Next.js"
+      "Microsoft Excel (Advanced)", "SQL (PostgreSQL)", "SharePoint", "RestAPIs", "Postman"
     ]
   },
   {
-    "name": "Back-End Technologies",
+    "name": "Data and Operation Practices",
     "keywords": [
-      "Node.js", "PostgreSQL", "NeonDB"
+      "Data Cleaning and Normalisation", "Identity Resolution", "Data Quality Validation", "Governance and Auditability", "Migration Readiness"
     ]
   },
   {
-    "name": "Databases",
+    "name": "Engineering and Tooling",
     "keywords": [
-      "PostgreSQL", "PgAdmin4", "NeonDB"
+      "Git", "Github", "Node.js", "Typescript"
     ]
   },
   {
-    "name": "Deployment & Hosting",
+    "name": "Methods and Ways of Working",
     "keywords": [
-      "Vercel"
-    ]
-  },
-  {
-    "name": "Version Control",
-    "keywords": [
-      "Git", "GitHub"
-    ]
-  },
-  {
-    "name": "Operating Systems",
-    "keywords": [
-      "Windows"
+      "Requirements Translation", "Workflow Design", "Rule-based Classification", "Documentation and Handover", "Agile Collaboration"
     ]
   }
 ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2026)",
+      "area": "Computer Science (expected Fall, 2026)",
       "studyType": "B.S.",
       "startDate": "2024-08-26",
       "endDate": "Present",
