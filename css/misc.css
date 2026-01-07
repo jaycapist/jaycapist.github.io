@@ -84,9 +84,9 @@ p.text-center:nth-child(6) > a  { /* Colour see all links on home page */
 }
 
 /* Icon sizing consistency */
-.contact-item i {
+.contact-item svg {
   font-size: 1.25rem;
-  line-height: 1;
+  line-height: 0.9;
 }
 
 /* Text under icon */
