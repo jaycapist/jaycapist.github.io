@@ -84,16 +84,11 @@ p.text-center:nth-child(6) > a  { /* Colour see all links on home page */
 }
 
 /* Icon sizing consistency */
-.contact-item svg {
-  font-size: 1.25rem;
-  line-height: 0.9;
+.contact-item .tf-social {
+  font-size: 0.85rem;
 }
 
 /* Text under icon */
 .contact-item span {
-  font-size: 0.9rem;
-}
-
-.interests p + p {
-  margin-top: 0.25rem;
+  font-size: 0.75rem;
 }
