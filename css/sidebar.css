@@ -59,46 +59,32 @@ main {
 
 .summary-centered {
   text-align: center;
-  max-width: 42rem;
-  margin: 0.75rem auto;
-  line-height: 1.4;
+  max-width: 38rem;
+  line-height: 1.2;
+  margin: 0 auto;
 }
 
-.summary-centered br {
-  display: block;
-  margin-top: 0.25rem;
-}
-
-.interests-sidebar {
-  text-align: center;
+.interests-block {
+  margin-top: 1.5rem;
 }
 
 .interests-title {
-  margin-bottom: 0.5rem;
-  font-weight: 500;
+  text-align: center;
+  margin-bottom: 0.75rem;
 }
 
-.interests-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0.35rem 1.25rem;
-
-  list-style: none;
-  padding-left: 0;
-  margin: 0;
-
-  text-align: left;
+.interests-lines {
+  max-width: 42rem;
+  margin: 0 auto;
+  text-align: center;
+  line-height: 1.6;
 }
 
-.interests-grid li {
-  position: relative;
-  padding-left: 0.75rem;
-  font-size: 0.9rem;
+.interest-item {
+  white-space: nowrap;
 }
 
-.interests-grid li::before {
-  content: "•";
-  position: absolute;
-  left: 0;
-  opacity: 0.5;
+.interest-sep {
+  margin: 0 0.4rem;
+  opacity: 0.7;
 }
