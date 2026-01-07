@@ -47,8 +47,13 @@ layout: home
       </div>
       <div class="col-lg-9">
         <p class="m-0">
-          {% for interest in site.data.bio.interests %}
-          {{ interest.name }}{% if forloop.last != true %}, {% endif %}
+          {% for interest in site.data.bio.interests limit: 4 %}
+            {{ interest.name }}{% unless forloop.last %} · {% endunless %}
+          {% endfor %}
+        </p>
+        <p class="m-0">
+          {% for interest in site.data.bio.interests offset: 4 %}
+            {{ interest.name }}{% unless forloop.last %} · {% endunless %}
           {% endfor %}
         </p>
       </div>

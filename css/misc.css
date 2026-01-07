@@ -92,3 +92,7 @@ p.text-center:nth-child(6) > a  { /* Colour see all links on home page */
 .contact-item span {
   font-size: 0.9rem;
 }
+
+.interests p + p {
+  margin-top: 0.25rem;
+}
