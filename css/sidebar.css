@@ -56,3 +56,49 @@ main {
         box-sizing: border-box; /* Include padding and border in width and height */
     }
 }
+
+.summary-centered {
+  text-align: center;
+  max-width: 42rem;
+  margin: 0.75rem auto;
+  line-height: 1.4;
+}
+
+.summary-centered br {
+  display: block;
+  margin-top: 0.25rem;
+}
+
+.interests-sidebar {
+  text-align: center;
+}
+
+.interests-title {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+.interests-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.35rem 1.25rem;
+
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+
+  text-align: left;
+}
+
+.interests-grid li {
+  position: relative;
+  padding-left: 0.75rem;
+  font-size: 0.9rem;
+}
+
+.interests-grid li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  opacity: 0.5;
+}

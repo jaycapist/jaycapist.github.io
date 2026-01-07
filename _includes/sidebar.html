@@ -25,14 +25,16 @@
             {% endfor %}
           </div>
           <hr class="my-4">
-          <img width="75%" src="..\img\JaydenOntalanCapistrano.jpg" class="d-block mx-auto rounded-circle" alt="Profile Picture">
+          <img width="40%" src="..\img\JaydenOntalanCapistrano.jpg" class="d-block mx-auto rounded-circle" alt="Profile Picture">
           <h1 class="display-4 text-center">{{ site.data.bio.basics.name }}</h1>
           <p class="lead text-center">{{ site.data.bio.basics.label }}</p>
-          <p class="lead">{{ site.data.bio.basics.summary }}</p>
+          <p class="lead summary-centered">
+            {{ site.data.bio.basics.summary | markdownify }}
+          </p>
           <hr class="my-4">
-          <div class="interests-list">
-            <p class="lead mb-1">Interests</p>
-            <ul class="mb-0 ps-3 small">
+          <div class="interests-sidebar">
+            <h3 class="interests-title">Interests</h3>
+            <ul class="interests-grid">
               {% for interest in site.data.bio.interests %}
                 <li>{{ interest.name }}</li>
               {% endfor %}
