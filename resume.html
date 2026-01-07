@@ -29,18 +29,11 @@ layout: home
           </span>
 
           {% for profile in site.data.bio.basics.profiles %}
-            {% if profile.network == "GitHub" %}
-              <span class="contact-item">
-                {% include about/social.html url=profile.url name='github' label=profile.username %}
-              </span>
-            {% endif %}
-            {% if profile.network == "LinkedIn" %}
-              <span class="contact-item">
-                {% include about/social.html url=profile.url name='linkedin' label=profile.username %}
-              </span>
-            {% endif %}
+            {% capture name %}{{ profile.network | downcase | strip }}{% endcapture %}
+            <span class="contact-item">
+              {% include about/social.html url=profile.url name=name label=profile.username %}
+            </span>
           {% endfor %}
-
         </div>
       </div>
     </div>
