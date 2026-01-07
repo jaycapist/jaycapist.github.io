@@ -92,15 +92,3 @@ p.text-center:nth-child(6) > a  { /* Colour see all links on home page */
 .contact-item span {
   font-size: 0.85rem;
 }
-
-@media (max-width: 768px) {
-  .summary-centered {
-    max-width: 32rem;
-    line-height: 1.35;
-  }
-
-  .interests-lines {
-    max-width: 34rem;
-    line-height: 1.5;
-  }
-}

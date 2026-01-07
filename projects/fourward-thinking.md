@@ -4,7 +4,7 @@ type: project
 image: img/fourwardthinking/fourward-thinking-logo.png
 title: Fourward Thinking [Hiatus]
 date: July 21, 2024
-published: true
+published: false
 labels: [modular design, web development, collaboration, final project, project management]
 summary: A comprehensive implementation of a Binary Search Tree (BST) in C++ designed to handle core operations efficiently, with a focus on traversal methods and modular design.
 ---
