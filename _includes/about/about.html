@@ -14,13 +14,13 @@
         <div class="interests-block text-center">
           <h3 class="interests-title">Interests</h3>
 
-          <div class="interests-lines">
-            {% for interest in site.data.bio.interests %}
-              <span class="interest-item">{{ interest.name }}</span>
-              {% unless forloop.last %}
-                <span class="interest-sep">·</span>
-              {% endunless %}
-            {% endfor %}
+          <div class="interests-block text-center">
+            <h3 class="interests-title">Interests</h3>
+            <ul class="interests-list">
+              {% for interest in site.data.bio.interests %}
+                <li>{{ interest.name }}</li>
+              {% endfor %}
+            </ul>
           </div>
         </div>
         <hr class="my-4">
