@@ -7,14 +7,22 @@
       <div class="col-lg-8">
         <h1 class="display-4 text-center">{{ site.data.bio.basics.name }}</h1>
         <p class="lead text-center">{{ site.data.bio.basics.label }}</p>
-        <p class="lead">{{ site.data.bio.basics.summary }}</p>
+        <div class="lead summary-centered">
+          {{ site.data.bio.basics.summary | markdownify }}
+        </div>
         <hr class="my-4">
-        <p class="lead m-0">
-          Interests:
-          {% for interest in site.data.bio.interests %}
-          {{ interest.name }}{% if forloop.last != true %}, {% endif %}
-          {% endfor %}
-        </p>
+        <div class="interests-block text-center">
+          <h3 class="interests-title">Interests</h3>
+
+          <div class="interests-lines">
+            {% for interest in site.data.bio.interests %}
+              <span class="interest-item">{{ interest.name }}</span>
+              {% unless forloop.last %}
+                <span class="interest-sep">·</span>
+              {% endunless %}
+            {% endfor %}
+          </div>
+        </div>
         <hr class="my-4">
         <div class="row">
 
