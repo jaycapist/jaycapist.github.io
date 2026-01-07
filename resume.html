@@ -57,16 +57,20 @@ layout: home
         <h1 class="display-6 text-start m-0">Skills</h1>
       </div>
       <div class="col-lg-9">
-        {% for entry in site.data.bio.skills %}
-          <div class="mb-2">
-            <p class="mb-1"><b>{{ entry.name }}</b></p>
-            <ul class="mb-0 ps-3">
-              {% for keyword in entry.keywords %}
-                <li>{{ keyword }}</li>
-              {% endfor %}
-            </ul>
-          </div>
-        {% endfor %}
+        <div class="row g-4">
+          {% for entry in site.data.bio.skills %}
+            <div class="col-md-6">
+              <div class="mb-2">
+                <p class="mb-1 fw-semibold">{{ entry.name }}</p>
+                <ul class="mb-0 ps-3 small lh-sm">
+                  {% for keyword in entry.keywords %}
+                    <li class="mb-1">{{ keyword }}</li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
       </div>
     </div>
     {% endif %}
@@ -116,7 +120,7 @@ layout: home
 
     {% if site.data.bio.work %}
     <hr class="my-4">
-    <div class="row py-5 align-items-start">
+    <div class="row pb-3 align-items-start">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Work</h1>
       </div>
@@ -160,7 +164,7 @@ layout: home
 
     {% if site.data.bio.volunteer %}
       <hr class="my-4">
-      <div class="row py-5 align-items-start">
+      <div class="row pb-3 align-items-start">
         <div class="col-lg-3">
           <h1 class="display-6 text-start m-0">Activities</h1>
         </div>
@@ -204,7 +208,7 @@ layout: home
 
     {% if site.data.bio.awards %}
     <hr class="my-4">
-    <div class="row py-5 align-items-start">
+    <div class="row pb-3 align-items-start">
       <div class="col-lg-3">
         <h1 class="display-6 text-start m-0">Awards</h1>
       </div>
