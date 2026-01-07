@@ -51,8 +51,8 @@ p.text-center:nth-child(6) > a  { /* Colour see all links on home page */
 .skills-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 10px;              /* ~15% tighter than 24px */
-  max-width: 720px;
+  gap: 5px;
+  max-width: 550px;
   align-items: start;
 }
 
