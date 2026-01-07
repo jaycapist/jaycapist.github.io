@@ -30,12 +30,14 @@
           <p class="lead text-center">{{ site.data.bio.basics.label }}</p>
           <p class="lead">{{ site.data.bio.basics.summary }}</p>
           <hr class="my-4">
-          <p class="lead m-0">
-            Interests:
-            {% for interest in site.data.bio.interests %}
-            {{ interest.name }}{% if forloop.last != true %}, {% endif %}
-            {% endfor %}
-          </p>
+          <div class="interests-list">
+            <p class="lead mb-1">Interests</p>
+            <ul class="mb-0 ps-3 small">
+              {% for interest in site.data.bio.interests %}
+                <li>{{ interest.name }}</li>
+              {% endfor %}
+            </ul>
+          </div>
         </div>
       </div>
     </div>
