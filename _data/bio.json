@@ -25,11 +25,11 @@
   {
     "name": "Data and Systems Tools",
     "keywords": [
-      "Microsoft Excel (Advanced)", "SQL (PostgreSQL)", "SharePoint", "RestAPIs", "Postman"
+      "Microsoft Excel (Advanced)", "SQL (PostgreSQL)", "SharePoint", "REST APIs", "Postman"
     ]
   },
   {
-    "name": "Data and Operation Practices",
+    "name": "Data and Operational Practices",
     "keywords": [
       "Data Cleaning and Normalisation", "Identity Resolution", "Data Quality Validation", "Governance and Auditability", "Migration Readiness"
     ]
@@ -37,20 +37,20 @@
   {
     "name": "Engineering and Tooling",
     "keywords": [
-      "Git", "Github", "Node.js", "Typescript"
+      "Git", "GitHub", "Node.js", "TypeScript", "Excel-based Automation"
     ]
   },
   {
     "name": "Methods and Ways of Working",
     "keywords": [
-      "Requirements Translation", "Workflow Design", "Rule-based Classification", "Documentation and Handover", "Agile Collaboration"
+      "Workflow Design", "Requirements Translation", "Rule-based Classification", "Documentation and Handover", "Agile Collaboration"
     ]
   }
 ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2026)",
+      "area": "Computer Science (Expected Fall 2026)",
       "studyType": "B.S.",
       "startDate": "2024-08-26",
       "endDate": "Present",
