@@ -58,3 +58,11 @@ p.text-center:nth-child(6) > a  { /* Colour see all links on home page */
 .skills-col {
   min-width: 0;
 }
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: auto auto;
+  column-gap: 32px;
+  row-gap: 6px;
+  align-items: center;
+}
