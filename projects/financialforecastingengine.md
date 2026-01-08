@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/financialforecastingengine/forecastresults.png
+image: img/financialforecastingengine/forecastresultssquared.png
 title: Financial Forecasting & Stress Testing Engine
 date: May 2025
 published: true
@@ -68,9 +68,8 @@ This made the system predictable, testable, and safe to evolve—even as require
 
 ## Role & Ownership
 
-On paper, roles were split between frontend and backend. In practice, I stepped into a backend lead role for financial logic and system structure.
+On paper, roles were split between frontend and backend. In practice, I stepped into a backend lead role for financial logic and system structure. I:
 
-**I**:
 - Designed backend architecture and calculation flows
 - Refactored legacy logic into maintainable utilities
 - Wrote the majority of stress-test and forecasting code
