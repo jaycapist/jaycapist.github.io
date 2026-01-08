@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Comfort in Linting"
 date: September 26, 2024
-published: true
+published: false
 category: "reflections"
 labels:
  - Coding Practices

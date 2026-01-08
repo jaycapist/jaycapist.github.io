@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Kimoriya: A thematic Pokemon team builder"
 date: 2024-12-30
-published: true
+published: false
 category: "projectideas"
 labels:
  - Personal Project

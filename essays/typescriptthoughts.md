@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Learning How to Script"
 date: September 5, 2024
-published: true
+published: false
 category: "reflections"
 labels:
  - Java

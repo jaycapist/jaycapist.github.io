@@ -32,16 +32,16 @@
           {% endfor %}
         </div>
 
-        <!-- Heading for Project Ideas -->
+        <!-- Heading for Systems Thinking -->
         <h2 class="text-start">
-          Project Ideas
+          Systems Thinking
         </h2>
         <div class="row g-3">
-          {% assign filtered_projectideas = all_essays | where: "category", "projectideas" %}
+          {% assign filtered_systemsthinking = all_essays | where: "category", "systemsthinking" %}
           
-          {% for page in filtered_projectideas %}
+          {% for page in filtered_systemsthinking %}
             {% unless page.draft %}
-              <!-- Show the essay card for Project Ideas -->
+              <!-- Show the essay card for Systems Thinking -->
               {% include essays/essay-card.html page=page %}
             {% endunless %}
             

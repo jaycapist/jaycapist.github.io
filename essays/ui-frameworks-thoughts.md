@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Understanding Interfaces"
 date: October 10, 2024
-published: true
+published: false
 category: "reflections"
 labels:
  - Bootstrap 5

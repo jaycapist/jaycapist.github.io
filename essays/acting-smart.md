@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Acting SMART"
 date: September 12, 2024
-published: true
+published: false
 category: "reflections"
 labels:
  - Collaboration
