@@ -3,8 +3,8 @@ layout: project
 type: project
 image: img/fcs/fcslogo.png
 title: Enterprise File & Client Classification System
-date: July 21, 2024
-published: false
+date: January 2026
+published: true
 labels: [data hygiene, system design, enterprise tooling, error handling, operational reliability]
 summary: Designed an internal file and client-classification system to manage thousands of unstructured financial documents in SharePoint. Built validation logic, naming heuristics, and review workflows to resolve ambiguous client identities, enforce consistency, and prevent downstream audit and retrieval failures. Focused on data hygiene, operational reliability, and human-error mitigation under real enterprise constraints.
 ---
